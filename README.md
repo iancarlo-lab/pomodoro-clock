@@ -5,6 +5,9 @@
 [Live Demo](https://codepen.io/iancarlo-lab/pen/xxxMrzq)
 *Live Demo has some issues. Will be debugged soon.*
 
+
+-----------------------
+
 ### User Stories: 
 
 User Story #1: I can see an element with id="break-label" that contains a string (e.g. "Break Length").
